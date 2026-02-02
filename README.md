@@ -4,6 +4,8 @@ This repository contains a public, reproducible analysis examining gaps in age-b
 
 All analyses are conducted for demonstration and portfolio purposes only.
 
+<img width="3585" height="2381" alt="visual_design_summary" src="https://github.com/user-attachments/assets/d933f546-18e2-4bb6-a5ff-069883574aab" />
+
 ---
 
 ## What this analysis shows
