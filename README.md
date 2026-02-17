@@ -1,8 +1,6 @@
-# Bone Health Screening Gaps – NHANES 2005–2006 (Public Demo)
+# Bone Health Screening Gaps - Phase 1 – NHANES 2005–2006 
 
 This repository contains a public, reproducible analysis examining gaps in age-based osteoporosis screening using data from the **NHANES 2005–2006** cohort. The analysis focuses on identifying individuals at high bone-health risk who are not captured by current age-based screening criteria.
-
-All analyses are conducted for demonstration and portfolio purposes only.
 
 <img width="3585" height="2381" alt="visual_design_summary" src="https://github.com/user-attachments/assets/d933f546-18e2-4bb6-a5ff-069883574aab" />
 
@@ -75,7 +73,7 @@ All data were merged using the NHANES respondent identifier (`SEQN`).
 
 ## Important notes
 
-- This analysis uses **real NHANES data**, but all interpretations are for **demonstration purposes only**  
+- This analysis uses **real NHANES data**
 - No clinical decisions should be made based on this analysis  
 - Screening rules and thresholds are simplified proxies, not clinical recommendations  
 - Minor differences from published prevalence estimates may occur due to analytic choices and exclusions  
@@ -120,6 +118,3 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 
 ---
 
-## License
-
-This project is provided for educational and demonstration purposes only.
